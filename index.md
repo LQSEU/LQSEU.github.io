@@ -52,13 +52,13 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 ---
 
 **Journal：**
-- [J. Zhang, Q. Liu, J. Zhou and A. Song, “Crab-inspired compliant leg design method for adaptive locomotion of a multi-legged robot,” Bioinspiration & Biomimetics, 24 Jan. 2022, 025001.](https://lqseu.github.io/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
+- [J. Zhang, Q. Liu, J. Zhou and A. Song, “Crab-inspired compliant leg design method for adaptive locomotion of a multi-legged robot,” Bioinspiration & Biomimetics, 24 Jan. 2022, 025001.](https://lqseu.github.io/file/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
 
 **Conference：**
-- [Q. Liu, J. Zhang*, X. Li, J. Zhou, X. Hu, W. Jin, and A. Song, “A Rigid and Flexible Structures Coupled Underactuated Hand,” in: IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 11-15 Jul., 2022.](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
+- [Q. Liu, J. Zhang*, X. Li, J. Zhou, X. Hu, W. Jin, and A. Song, “A Rigid and Flexible Structures Coupled Underactuated Hand,” in: IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 11-15 Jul., 2022.](https://lqseu.github.io/file/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
 - Design and Simulation of A Rigid and flexible Continuum Manipulator (Article of China Space Conference in 2021, first author)
 **Patent：**
-- [A perception-driven integrated rigid-flexible finger and a flexible robotic dexterous hand (authorized)](https://lqseu.github.io/种感知驱动一体化刚柔耦合手指及柔顺型机器人灵巧手.pdf)
+- [A perception-driven integrated rigid-flexible finger and a flexible robotic dexterous hand (authorized)](https://lqseu.github.io/file/种感知驱动一体化刚柔耦合手指及柔顺型机器人灵巧手.pdf)
 
 **Graduation Thesis:**
 - Research on modeling and control method of a crab-like exoskeleton hand function rehabilitation robot (master)
