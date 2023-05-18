@@ -2,7 +2,8 @@
 layout: page
 ---
 
-#   Education
+## Education
+---
 **Southeast University**
 ***Master, Instrumentation Science***
 Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
@@ -12,12 +13,14 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 **Core Course：** Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc.  
 
 
-# Work Experience
+## Work Experience
+---
 **Huzhou Research Institute, Zhejiang University                                      07/2022-Present**
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
 - Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management
 
-# Research Experience
+## Research Experience
+---
 **Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)**
 **Huzhou Research Institute, Zhejiang University                                         2022-Present**                                                                         
 - Iteratively optimized Crepes hardware to reduce the volume and quality of Crepes and optimize the heat dissipation; made the final volume of the device reach 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV
@@ -36,7 +39,8 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 - Participated in the research of building multi-mode data acquisition system of space operation terminal, and collected the information about hand movement, electromyography and eye movement.
 
 
-# Academic Achievements
+## Academic Achievements
+---
 **Journal：**
 - [J. Zhang, Q. Liu, J. Zhou and A. Song, “Crab-inspired compliant leg design method for adaptive locomotion of a multi-legged robot,” Bioinspiration & Biomimetics, 24 Jan. 2022, 025001.](https://lqseu.github.io/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
 **Conference：**
@@ -58,14 +62,16 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 - Assisted the teachers and helped the graduates complete the tripartite agreement signing
 - Took charge of the reception of off-campus enterprises
 
-# Awards
+## Awards
+---
 - International Second Prize of Mathematical Contest in Modeling in 2018 
 - National Second Prize of the 8th “Beidou Cup” National Youth Science and Technology Innovation Competition 
 - National Third Prize of Robomaster in 2018 
 - Scholarship of Tongxi Group, Anhui Chamber of Commerce in 2017 
 - First Prize of the 6th Innovation Experience Competition of Southeast University in 2015
 
-# Skills
+## Skills
+---
 - Skilled in C, C++, and Ros for programing 
 - Familiar with embedded design method, and able to quickly build robot application schemes
 - Skilled in PCB, and able to draw simple power driver board, control board, USB-HUB
