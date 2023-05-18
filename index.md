@@ -2,11 +2,11 @@
 layout: page
 ---
 
+
 ## Education
 
 ---
 
->>>>>>> aaa9d4c0cd7b26d79763cf756a650e9cc761f9f0
 **Southeast University**
 ***Master, Instrumentation Science***
 Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
@@ -63,6 +63,9 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 - Human hand posture detection based on flexible sensor (bechor)
 
 # Social Practice
+
+---
+
 **Local Enrollment of Southeast University                                                   (07/2020)**
 - Served as a volunteer in the college entrance examination enrollment activity of Southeast University in Ningguo City, Anhui Province
 - Explained the specific admission guidelines and campus conditions of Southeast University for students and parents
