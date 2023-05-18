@@ -2,7 +2,7 @@
 layout: page
 ---
 
-#   Education
+# Education
 **Southeast University**
 ***Master, Instrumentation Science***
 Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
