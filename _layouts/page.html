@@ -8,64 +8,67 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 
 <head>
-{% include head.html %}
+  {% include head.html %}
 
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+  <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-gtag('config', 'G-T5N5JY1E21');
-</script>
+    gtag('config', 'G-T5N5JY1E21');
+  </script>
 
 </head>
 
-
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
-<!-- 空文件 -->
-{% include chrome-frame.html %}
-<!--  -->
-{% include navigation.html %}
-
-
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="https://lqseu.github.io/liuqi.jpg" itemprop="primaryImageOfPage">
-<!-- <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage"> -->
-</div><!-- /.image-wrap -->{% endif %}
-
-<div id="main" role="main"  itemprop="mainContentOfPage">
-  <!-- 侧边栏设计 -->
-<div class="article-author-top">
-  {% include author-bio.html %}
-</div>
-
 <!-- 主体内容 -->
-<article itemscope itemtype="http://schema.org/CreativeWork">
-{% comment %}
-  <div class="headline-wrap">
-    <h1 itemprop="headline">{{ page.title }}</h1>
-  </div><!--/ .headline-wrap -->
-{% endcomment %}
-  <div class="article-wrap" itemprop="text">
-    {{ content }}
-  </div><!-- /.article-wrap -->
-</article>
-</div><!-- /#index -->
+  <body class="page" itemscope itemtype="http://schema.org/WebPage">
+    <!-- 空文件 -->
+    {% include chrome-frame.html %}
+    <!--  -->
+    {% include navigation.html %}
+
+
+    {% if page.image.feature %}<div class="image-wrap">
+      <img src="https://lqseu.github.io/liuqi.jpg" itemprop="primaryImageOfPage">
+    <!-- <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage"> -->
+    </div><!-- /.image-wrap -->{% endif %}
+
+    <div id="main" role="main"  itemprop="mainContentOfPage">
+
+        <!-- 侧边栏设计 -->
+        <div class="article-author-top">
+          {% include author-bio.html %}
+        </div>
+
+        <article itemscope itemtype="http://schema.org/CreativeWork">
+          {% comment %}
+          <!-- 网页显示抬头 -->
+            <div class="headline-wrap">
+              <h1 itemprop="headline">{{ page.title }}</h1>
+            </div><!--/ .headline-wrap -->
+          {% endcomment %}
+          <!-- 网页主要内容 -->
+          <div class="article-wrap" itemprop="text">
+            {{ content }}
+          </div><!-- /.article-wrap -->
+
+        </article>
+    </div><!-- /#index -->
 
 
 
-<!-- 尾栏 -->
-<div class="footer-wrap">
-<footer>
-  {% include footer.html %}
-</footer>
-</div><!-- /.footer-wrap -->
+    <!-- 网页尾 -->
+    <div class="footer-wrap">
+    <footer>
+      {% include footer.html %}
+    </footer>
+    </div><!-- /.footer-wrap -->
 
-{% include scripts.html %}
+    {% include scripts.html %}
 
-</body>
+  </body>
 </html>
