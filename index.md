@@ -9,11 +9,13 @@ title: personal cv
 ---
 
 **Southeast University**
+
 ***Master, Instrumentation Science***
 
 **Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
 
 **Southeast University**
+
 ***Bachelor, Instrumentation Science***
 
 **Core Course：** Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc.  
