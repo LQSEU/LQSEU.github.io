@@ -23,7 +23,7 @@ title: personal cv
 
 ---
 
-**Huzhou Research Institute, Zhejiang University %20 %20 %20 %20 %20 %20 %20 %20 %20 %20 %20 07/2022-Present**
+**Huzhou Research Institute, Zhejiang University &emsp;&emsp;&emsp;&emsp; 07/2022-Present**
 
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
 - Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management
@@ -34,7 +34,7 @@ title: personal cv
 
 **Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)**
 
-***Huzhou Research Institute, Zhejiang University %20 %20 2022-Present***                           
+***Huzhou Research Institute, Zhejiang University &emsp; &emsp;&emsp;&emsp; &emsp;  2022-Present***                           
 
 - Iteratively optimized Crepes hardware to reduce the volume and quality of Crepes and optimize the heat dissipation; made the final volume of the device reach 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV
 -  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera
