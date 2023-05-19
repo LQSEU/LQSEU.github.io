@@ -64,7 +64,8 @@ Core Course：Visual Robot Control, Pattern Recognition, Introduction to Indoor 
 - Research on modeling and control method of a crab-like exoskeleton hand function rehabilitation robot (master)
 - Human hand posture detection based on flexible sensor (bechor)
 
-# Social Practice
+
+## Social Practice
 
 ---
 
