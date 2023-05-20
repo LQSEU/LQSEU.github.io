@@ -15,7 +15,7 @@ P.S., click the hyperlink title to access the source.<br>
 #### Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)
 
 <center>
-<img src="/images/Crepes.png">
+<img src="/images/Crepes.png" width="800">
 </center>
 <br>
 
