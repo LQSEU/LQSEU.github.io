@@ -11,16 +11,23 @@ title: personal cv
 **Southeast University**
 
 <p left="5px;"> 
-
-***Master, Instrumentation Science and Engineering (2019-2022)***
+<i><b>Master, Instrumentation Science and Engineering (2019-2022)</b></i>
 </p>
 
-&nbsp;**Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.<br>
+<p left="5px;"> 
+<b>Core Course：</b>Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
+</p>
 &nbsp;
 
-**Southeast University**<br>
-&nbsp;***Bachelor, Instrumentation Science and Engineering (2015-2019)***<br>
-&nbsp;**Core Course：** Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc.  
+**Southeast University**
+
+<p left="5px;"> 
+<i><b>Bachelor, Instrumentation Science and Engineering (2015-2019)</b></i>
+</p>
+
+<p left="5px;"> 
+<b>Core Course：</b>Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc. 
+</p>
 
 
 ## Work Experienc
