@@ -36,7 +36,7 @@ title: personal cv
 
 **Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)**
 
-***Huzhou Research Institute, Zhejiang University &emsp; &emsp;&emsp;&emsp; &emsp;  2022-Present***                           
+***Huzhou Research Institute, Zhejiang University &emsp; &emsp;&emsp;(2022-Present)***                           
 
 - Iteratively optimized Crepes hardware to reduce the volume and quality of Crepes and optimize the heat dissipation; made the final volume of the device reach 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV
 -  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera
@@ -45,7 +45,7 @@ title: personal cv
 
 **Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet**
 
-***School of Instrument Science and Engineering, Southeast University (2020-2022)***                                                         
+***School of Instrument Science and Engineering, Southeast University(2020-2022)***                                                         
 - Explored the modeling simulation optimization method of extended-bending structure, and realized the co-simulation of abaqus and python, and the simulation optimization of Recurdyn rigid-flexible multi-body dynamic
 - Set up a system to test hardware, software and sensor system, including hardware circuit rendering, sensor data acquisition and filtering processing of upper computer, etc.
 - Compiled relevant application papers, focusing on hand rehabilitation exoskeleton, bionic robot, space continuum robot arm.
