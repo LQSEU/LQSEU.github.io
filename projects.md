@@ -6,7 +6,9 @@ title: Projects
 
 ## Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
+P.S., click the hyperlink title to access the source.
+&nbsp;
+
 <!-- 传感器融合 ：放Crepes框架图，硬件迭代图+实验视频-->
 ### 6 DOFs robot positioning system using multisensor fusion
 
@@ -16,11 +18,12 @@ P.S., click the hyperlink title to access the source.<br>
 **article:** Waiting for publishing
 - System architecture:
 <center>
-<img src="/images/Crepes.png" width="700px" >
+<img src="/images/Crepes.png" width="650px" >
 </center>
+
 - System iterations:
 <center>
-<img src="/images/Crepes version4.png" width="700px">
+<img src="/images/Crepes version4.png" width="650px">
 </center>
 <!-- 刚柔耦合机构 -->
 &nbsp;
@@ -43,21 +46,80 @@ P.S., click the hyperlink title to access the source.<br>
 <!-- 刚柔耦合机构机械手 ：放AIM会议视频-->
 #### Topic 2: *Rigid and flexible coupled robot hand with open loop control*
 **article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
+
 - Video of the conderence paper:
 <center>
-<video width="700px" controls="controls">
+<video width="650px" controls="controls">
     <source src="/videos/all.mp4" type="video/mp4"></source>
     <source src="/videos/all.ogg" type="video/ogg"></source>
     your browser does not support the video tag
 </video>
 </center>
+&nbsp;
 
+#### Topic 3: Space continuum manipulator
+- Some simulations:
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                <center>
+                <video width="400px" controls="controls"> 
+                <source src="/videos/circle_2joint.mp4" type="video/mp4"></source>
+                <source src="/videos/circle_2joint.ogg" type="video/ogg"></source>
+                your browser does not support the video tag
+                </video>
+                </center>
+            </td>
+            <td>
+                <center>
+                <video width="400px" controls="controls">
+                 <source src="/videos/yuanx_liangduan.mp4" type="video/mp4"></source>
+                <source src="/videos/yuanx_liangduan.ogg" type="video/ogg"></source>
+                your browser does not support the video tag
+                </video>
+                </center>
+            </td>
+        </tr>
+    </table>
+</html>
+
+&nbsp;
 <!-- 刚柔耦合外骨骼 :放毕业设计论文中的图片-->
-#### Topic 3: A rigid and flexible structure hand exoskeleton rehabilitation system 
+<!-- #### Topic 3: A rigid and flexible structure hand exoskeleton rehabilitation system  -->
 
 
-
-<br>
+### Hand posture detection using flexible sensors  *(Bachelor)*
 <!-- 手部检测系统 ：放毕业设计论文中的图片-->
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                - Measure using JY901
+                <center>
+                <video width="400px" controls="controls"> 
+                <source src="/videos/独立式测量.mp4" type="video/mp4"></source>
+                <source src="/videos/独立式测量.ogg" type="video/ogg"></source>
+                your browser does not support the video tag
+                </video>
+                </center>
+            </td>
+            <td>
+                <!--右侧内容-->
+                -Measure using Flex sensors
+                <center>
+                <video width="400px" controls="controls">
+                 <source src="/videos/关联式测量.mp4" type="video/mp4"></source>
+                <source src="/videos/关联式测量.ogg" type="video/ogg"></source>
+                your browser does not support the video tag
+                </video>
+                </center>
+            </td>
+        </tr>
+    </table>
+</html>
 
 
