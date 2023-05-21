@@ -8,8 +8,13 @@ title: personal cv
 
 ---
 
-**Southeast University**<br>
-&nbsp;***Master, Instrumentation Science and Engineering (2019-2022)***<br>
+**Southeast University**
+
+<p left="5px;"> 
+
+***Master, Instrumentation Science and Engineering (2019-2022)***
+</p>
+
 &nbsp;**Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.<br>
 &nbsp;
 
