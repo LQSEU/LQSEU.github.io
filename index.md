@@ -7,9 +7,9 @@ title: personal cv
 ## Education
 
 ---
-
-**Southeast University**
-
+<p>
+<b>Southeast University</b>
+</p>
 <p left="5px;"> 
 <i><b>Master, Instrumentation Science and Engineering (2019-2022)</b></i>
 </p>
@@ -19,8 +19,10 @@ title: personal cv
 </p>
 &nbsp;
 
-**Southeast University**
 
+<p>
+<b>Southeast University</b>
+</p>
 <p left="5px;"> 
 <i><b>Bachelor, Instrumentation Science and Engineering (2015-2019)</b></i>
 </p>
