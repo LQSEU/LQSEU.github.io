@@ -2,11 +2,16 @@
 <!-- <h4>{{ site.owner.name }}</h4> -->
 <!-- 个人图片 -->
 <!-- <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="150" height="150"></a> -->
-<img src="{{ site.url }}/images/{{ site.owner.avatar }}"  width="110" height="160" style="float:center;"></a>
+
+<div style="float:center;">
+    <img src="{{ site.url }}/images/{{ site.owner.avatar }}"  width="110" height="160" style="float:center;"></a>
+    <p style="font-size: 20px;">
+        {{ site.owner.name }}
+    </p>
+</div>
+    
 <!-- 照片以下部分 -->
-<p style="font-size: 20px;">
-    {{ site.owner.name }}
-</p>
+
 {% if site.owner.email %}
 <p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>
 <p style="height: 15px;">{{site.owner.email}}</p>
