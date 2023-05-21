@@ -15,11 +15,10 @@ P.S., click the hyperlink title to access the source.<br>
 #### Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)
 **article:** waiting for publishing
 <center>
-<img src="/images/Crepes.png" width="750px">
-</center>
+<img src="/images/Crepes.png" width="700px" >
 <br><br>
-<img src="/images/Crepes version4.png" width="350px">
-
+<img src="/images/Crepes version4.png" width="700px">
+</center>
 <!-- 刚柔耦合机构 -->
 ## Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet
 
@@ -30,20 +29,15 @@ P.S., click the hyperlink title to access the source.<br>
 
 **article:** [click here](https://lqseu.github.io/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
 
-
 <center>
-<img src="/images/Crab.png" width="800px" >
+<img src="/images/Crab.png" width="700px" >
 </center>
-
-
 
 <!-- 刚柔耦合机构机械手 ：放AIM会议视频-->
 #### Topic2: *Rigid and flexible coupled robot hand with open loop control*
 **article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
-
-
 <center>
-<video width="800px" controls="controls">
+<video width="700px" controls="controls">
     <source src="/videos/all.mp4"></source>
     <source src="/videos/all.ogg"></source>
     your browser does not support the video tag
