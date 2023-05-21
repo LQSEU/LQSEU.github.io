@@ -7,7 +7,7 @@ title: personal cv
 ## Education
 
 ---
-<p>
+<p style="text-indent:0em">
 <b>Southeast University</b>
 </p>
 <p left="5px;"> 
@@ -20,7 +20,7 @@ title: personal cv
 &nbsp;
 
 
-<p>
+<p style="text-indent:0em">
 <b>Southeast University</b>
 </p>
 <p left="5px;"> 
