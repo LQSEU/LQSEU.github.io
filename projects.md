@@ -15,7 +15,7 @@ P.S., click the hyperlink title to access the source.
 ---
 
 #### Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)
-**article:** Waiting for publishing
+**Article:** Waiting for publishing
 - System architecture:
 <center>
 <img src="/images/Crepes.png" width="650px" >
@@ -36,7 +36,7 @@ P.S., click the hyperlink title to access the source.
 <!-- 刚柔耦合机构螃蟹机器人 ：放BB期刊图片（回头找找有没有视频）-->
 #### Topic 1:  *Rigid and flexible coupled structures inspired crab robot*
 
-**article:** [click here](https://lqseu.github.io/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
+**Article:** [click here](https://lqseu.github.io/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
 - Structure of the crab robot:
 <center>
 <img src="/images/Crab.png" width="700px" >
@@ -45,9 +45,9 @@ P.S., click the hyperlink title to access the source.
 
 <!-- 刚柔耦合机构机械手 ：放AIM会议视频-->
 #### Topic 2: *Rigid and flexible coupled robot hand with open loop control*
-**article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
+**Article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
 
-- Video of the conderence paper:
+- Video of the conference paper:
 <center>
 <video width="650px" controls="controls">
     <source src="/videos/all.mp4" type="video/mp4"></source>
@@ -57,7 +57,7 @@ P.S., click the hyperlink title to access the source.
 </center>
 &nbsp;
 
-#### Topic 3: Space continuum manipulator
+#### Topic 3: Space Continuum Manipulator
 - Some simulations:
 
 <html>
@@ -91,7 +91,7 @@ P.S., click the hyperlink title to access the source.
 <!-- #### Topic 3: A rigid and flexible structure hand exoskeleton rehabilitation system  -->
 
 
-### Hand posture detection using flexible sensors  *(Bachelor)*
+### Hand Posture Detection Using Flexible Sensors  *(Bachelor)*
 <!-- 手部检测系统 ：放毕业设计论文中的图片-->
 <html>
     <table style="margin-left: auto; margin-right: auto;">
