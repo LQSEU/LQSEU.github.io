@@ -8,11 +8,11 @@ title: personal cv
 
 ---
 <p style="text-indent:0em">
-<b>Southeast University</b>
+<b>Southeast University，Master</b>
 </p>
 
 <p style="text-indent:2em"> 
-<i><b>Master, Instrumentation Science and Engineering (2019-2022)</b></i>
+<i><b>Instrumentation Science and Engineering, Advisor: Jun Zhang, Aiguo Song (2019-2022)</b></i>
 </p>
 
 <p style="text-indent:2em"> 
@@ -22,10 +22,10 @@ title: personal cv
 
 
 <p style="text-indent:0em">
-<b>Southeast University</b>
+<b>Southeast University, Bachelor</b>
 </p>
 <p style="text-indent:2em"> 
-<i><b>Bachelor, Instrumentation Science and Engineering (2015-2019)</b></i>
+<i><b>Instrumentation Science and Engineering (2015-2019)</b></i>
 </p>
 
 <p style="text-indent:2em"> 
