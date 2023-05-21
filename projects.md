@@ -44,8 +44,8 @@ P.S., click the hyperlink title to access the source.<br>
 **article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
 <center>
 <video width="700px" controls="controls">
-    <source src="/videos/all.mp4"></source>
-    <source src="/videos/all.ogg"></source>
+    <source src="/videos/all.mp4" type="video/mp4"></source>
+    <source src="/videos/all.ogg" type="video/ogg"></source>
     your browser does not support the video tag
 </video>
 </center>
