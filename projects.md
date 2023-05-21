@@ -4,11 +4,11 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+## Research Projects
 
 P.S., click the hyperlink title to access the source.<br>
 <!-- 传感器融合 ：放Crepes框架图，硬件迭代图+实验视频-->
-## 6 DOFs robot positioning system using multisensor fusion
+### 6 DOFs robot positioning system using multisensor fusion
 
 ---
 
@@ -23,7 +23,10 @@ P.S., click the hyperlink title to access the source.<br>
 <img src="/images/Crepes version4.png" width="700px">
 </center>
 <!-- 刚柔耦合机构 -->
-## Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet
+&nbsp;
+
+
+### Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet
 
 ---
 
@@ -35,7 +38,7 @@ P.S., click the hyperlink title to access the source.<br>
 <center>
 <img src="/images/Crab.png" width="700px" >
 </center>
-</br>
+
 <!-- 刚柔耦合机构机械手 ：放AIM会议视频-->
 #### Topic 2: *Rigid and flexible coupled robot hand with open loop control*
 **article:** [click here](https://lqseu.github.io/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
