@@ -8,11 +8,11 @@ title: personal cv
 
 ---
 
-**Southeast University**
-***Master, Instrumentation Science***
-**Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.
-**Southeast University**
-***Bachelor, Instrumentation Science***
+**Southeast University**<br>
+***Master, Instrumentation Science***<br>
+**Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.<br>
+**Southeast University**<br>
+***Bachelor, Instrumentation Science***<br>
 **Core Course：** Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc.  
 
 
@@ -20,7 +20,7 @@ title: personal cv
 
 ---
 
-**Huzhou Research Institute, Zhejiang University(07/2022-Present)**
+**Huzhou Research Institute, Zhejiang University (07/2022-Present)**
 
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
 - Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management
@@ -31,7 +31,7 @@ title: personal cv
 
 **Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)**
 
-***Huzhou Research Institute, Zhejiang University(2022-Present)***                           
+***Huzhou Research Institute, Zhejiang University (2022-Present)***                           
 
 - Iteratively optimized Crepes hardware to reduce the volume and quality of Crepes and optimize the heat dissipation; made the final volume of the device reach 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV
 -  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera
