@@ -10,7 +10,8 @@ title: personal cv
 <p style="text-indent:0em">
 <b>Southeast University</b>
 </p>
-<p lstyle="text-indent:2em"> 
+
+<p style="text-indent:2em"> 
 <i><b>Master, Instrumentation Science and Engineering (2019-2022)</b></i>
 </p>
 
