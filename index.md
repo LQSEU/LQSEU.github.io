@@ -9,10 +9,12 @@ title: personal cv
 ---
 
 **Southeast University**<br>
-***Master, Instrumentation Science***<br>
+***Master, Instrumentation Science and Engineering***<br>
 **Core Course：**Visual Robot Control, Pattern Recognition, Introduction to Indoor Mobile Positioning Technology, Embedded System and Application Design, Intelligent Instrument Design, etc.<br>
+<br/>
+
 **Southeast University**<br>
-***Bachelor, Instrumentation Science***<br>
+***Bachelor, Instrumentation Science and Engineering***<br>
 **Core Course：** Virtual Instrument and Measurement and Control Technology, Large-scale Object-oriented Measurement and Control Software Design, New Sensor Technology and Application, Neural Network Design and Machine Learning, etc.  
 
 
@@ -74,11 +76,11 @@ title: personal cv
 
 ---
 
-**Local Enrollment of Southeast University(07/2020)**
+**Local Enrollment of Southeast University (07/2020)**
 - Served as a volunteer in the college entrance examination enrollment activity of Southeast University in Ningguo City, Anhui Province
 - Explained the specific admission guidelines and campus conditions of Southeast University for students and parents
 
-**Placement Office of Southeast University(2019.9-2020.5)**
+**Placement Office of Southeast University (2019.9-2020.5)**
 - Assisted the teachers and helped the graduates complete the tripartite agreement signing
 - Took charge of the reception of off-campus enterprises
 
