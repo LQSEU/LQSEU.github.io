@@ -18,7 +18,7 @@ P.S., click the hyperlink title to access the source.<br>
 <center>
 <img src="/images/Crepes.png" width="700px" >
 </center>
-- System iteration:
+- System iterations:
 <center>
 <img src="/images/Crepes version4.png" width="700px">
 </center>
