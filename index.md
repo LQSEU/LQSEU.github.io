@@ -37,7 +37,7 @@ title: personal cv
 
 ---
 
-**Huzhou Research Institute, Zhejiang University (07/2022-Present)**
+**Huzhou Research Institute, Zhejiang University (2022.7-Present)**
 
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
 - Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management
@@ -57,7 +57,7 @@ title: personal cv
 
 **Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet**
 
-***School of Instrument Science and Engineering, Southeast University(2020-2022)***                                                         
+***School of Instrument Science and Engineering, Southeast University (2020-2022)***                                                         
 - Explored the modeling simulation optimization method of extended-bending structure, and realized the co-simulation of abaqus and python, and the simulation optimization of Recurdyn rigid-flexible multi-body dynamic
 - Set up a system to test hardware, software and sensor system, including hardware circuit rendering, sensor data acquisition and filtering processing of upper computer, etc.
 - Compiled relevant application papers, focusing on hand rehabilitation exoskeleton, bionic robot, space continuum robot arm.
@@ -91,7 +91,7 @@ title: personal cv
 
 ---
 
-**Local Enrollment of Southeast University (07/2020)**
+**Local Enrollment of Southeast University (2020.7)**
 - Served as a volunteer in the college entrance examination enrollment activity of Southeast University in Ningguo City, Anhui Province
 - Explained the specific admission guidelines and campus conditions of Southeast University for students and parents
 
