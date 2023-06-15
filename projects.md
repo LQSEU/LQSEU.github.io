@@ -36,7 +36,7 @@ P.S., click the hyperlink title to access the source.
 <!-- 刚柔耦合机构螃蟹机器人 ：放BB期刊图片（回头找找有没有视频）-->
 #### Topic 1:  *Rigid and flexible coupled structures inspired crab robot*
 
-**Article:** [click here](https://lqseu.github.io/file/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
+**Article:** [click here](/file/Crab-inspired%2compliant%20leg%20design%20method%20for%20adaptive%20locomotion%20of%20a%20multi-legged%20robot.pdf)
 - Structure of the crab robot:
 <center>
 <img src="/images/Crab.png" width="700px" >
