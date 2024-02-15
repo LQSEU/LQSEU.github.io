@@ -40,7 +40,7 @@ title: personal cv
 **Huzhou Research Institute, Zhejiang University (2022.7-Present)**
 
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
-- Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management
+- Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management.
 
 ## Research Experience
 
@@ -48,12 +48,13 @@ title: personal cv
 
 **Cooperative Relative Pose Estimation towards Real World Multi Robot Systems (Crepes)**
 
-***Huzhou Research Institute, Zhejiang University (2022-Present)***                           
+***Huzhou Research Institute, Zhejiang University (2022-2023)***                           
 
-- Iteratively optimized Crepes hardware to reduce the volume and quality of Crepes and optimize the heat dissipation; made the final volume of the device reach 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV
--  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera
-- Optimized and reconstructed the Crepes Ros code, and maintained the github warehouse of the laboratory Crepes
-- Achieved the dual-machine full attitude detection error through optimization in the end, pose error: 13~15cm orientation error: 1.3~1.7°
+- Project repository: [https://fast-fire.github.io/CREPES/](https://fast-fire.github.io/CREPES/)
+- Iteratively optimized Crepes hardware to reduce the volume and improve the accuracy of Crepes and optimize the heat dissipation from the first version to the third version; The third version of the device reach a volumn of 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV; The fourth generation of the device is now being developed for smaller UAV which has limited load ability and lower computing power.
+-  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera.
+- Optimized and reconstructed the Crepes Ros code, and maintained the github warehouse of the laboratory Crepes.
+- Achieved the dual-machine full attitude detection error through optimization in the end, pose error: 13~15cm orientation error: 1.3~1.7°.
 
 **Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet**
 
@@ -92,28 +93,28 @@ title: personal cv
 ---
 
 **Local Enrollment of Southeast University (2020.7)**
-- Served as a volunteer in the college entrance examination enrollment activity of Southeast University in Ningguo City, Anhui Province
-- Explained the specific admission guidelines and campus conditions of Southeast University for students and parents
+- Served as a volunteer in the college entrance examination enrollment activity of Southeast University in Ningguo City, Anhui Province.
+- Explained the specific admission guidelines and campus conditions of Southeast University for students and parents.
 
 **Placement Office of Southeast University (2019.9-2020.5)**
-- Assisted the teachers and helped the graduates complete the tripartite agreement signing
-- Took charge of the reception of off-campus enterprises
+- Assisted the teachers and helped the graduates complete the tripartite agreement signing.
+- Took charge of the reception of off-campus enterprises.
 
 ## Awards
 
 ---
 
-- International Second Prize of Mathematical Contest in Modeling in 2018 
-- National Second Prize of the 8th “Beidou Cup” National Youth Science and Technology Innovation Competition 
-- National Third Prize of Robomaster in 2018 
-- Scholarship of Tongxi Group, Anhui Chamber of Commerce in 2017 
-- First Prize of the 6th Innovation Experience Competition of Southeast University in 2015
+- International Second Prize of Mathematical Contest in Modeling in 2018.
+- National Second Prize of the 8th “Beidou Cup” National Youth Science and Technology Innovation Competition.
+- National Third Prize of Robomaster in 2018.
+- Scholarship of Tongxi Group, Anhui Chamber of Commerce in 2017.
+- First Prize of the 6th Innovation Experience Competition of Southeast University in 2015.
 
 ## Skills
 
 ---
 
-- Skilled in C, C++, and Ros for programing 
-- Familiar with embedded design method, and able to quickly build robot application schemes
-- Skilled in PCB, and able to draw simple power driver board, control board, USB-HUB
-- Proficient in English, and passed CET-4 (599) and CET-6 (553)
+- Coding skills: C, C++, and Ros;
+- Familiar with embedded system design with various kinds of sensors;
+- Skilled in PCB, and able to draw simple power driver board, control board, USB-HUB;
+- Proficient in English, with grades of TOFEL 95, GRE 316(3.0).
