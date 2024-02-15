@@ -51,7 +51,7 @@ title: personal cv
 ***Huzhou Research Institute, Zhejiang University (2022-2023)***                           
 
 - Project repository: [https://fast-fire.github.io/CREPES/](https://fast-fire.github.io/CREPES/)
-- Iteratively optimized Crepes hardware to reduce the volume and improve the accuracy of Crepes and optimize the heat dissipation from the first version to the third version; The third version of the device reach a volumn of 83*57*75mm (including antenna) with the weight of 143g for the positioning of UAV; The fourth generation of the device is now being developed for smaller UAV which has limited load ability and lower computing power.
+- Iteratively optimized Crepes hardware to reduce the volume and improve the accuracy of Crepes and optimize the heat dissipation from the first version to the third version; The third version of the device reach a volumn of 82×58×75mm (including antenna) with the weight of 130g for the positioning of UAV; The fourth generation of the device is now being developed for smaller UAV which has limited load ability and lower computing power.
 -  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera.
 - Optimized and reconstructed the Crepes Ros code, and maintained the github warehouse of the laboratory Crepes.
 - Achieved the dual-machine full attitude detection error through optimization in the end, pose error: 13~15cm orientation error: 1.3~1.7°.
