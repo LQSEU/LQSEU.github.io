@@ -33,7 +33,7 @@ title: personal cv
 </p>
 
 
-## Work Experienc
+## Work Experience
 
 ---
 
