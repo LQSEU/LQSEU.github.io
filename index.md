@@ -117,4 +117,4 @@ title: personal cv
 - Coding skills: C, C++, and Ros;
 - Familiar with embedded system design with various kinds of sensors and Kalman filtering;
 - Skilled in PCB, and able to draw simple power driver board, control board, USB-HUB;
-- Proficient in English, with grades of TOFEL 95, and GRE 316(3.0).
+- Proficient in English, with grades of TOEFL 95, and GRE 316(3.0).
