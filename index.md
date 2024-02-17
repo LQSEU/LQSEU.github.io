@@ -40,7 +40,7 @@ title: personal cv
 **Huzhou Research Institute, Zhejiang University (2022.7-Present)**
 
 **Research Assistant in [*Fast Lab*](http://zju-fast.com "Fast lab 团队官网") Fast-fire Research Group**
-- Got involved in equipment integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, project management.
+- Got involved in sensor integration, realization of optical communication hardware and software functions, ROS software code reconstruction, paper reviewing, equipment optimization proposal, and project management.
 
 ## Research Experience
 
@@ -51,22 +51,22 @@ title: personal cv
 ***Huzhou Research Institute, Zhejiang University (2022-2023)***                           
 
 - Project repository: [https://fast-fire.github.io/CREPES/](https://fast-fire.github.io/CREPES/)
-- Iteratively optimized Crepes hardware to reduce the volume and improve the accuracy of Crepes and optimize the heat dissipation from the first version to the third version; The third version of the device reach a volumn of 82×58×75mm (including antenna) with the weight of 130g for the positioning of UAV; The fourth generation of the device is now being developed for smaller UAV which has limited load ability and lower computing power.
--  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by high-speed camera.
-- Optimized and reconstructed the Crepes Ros code, and maintained the github warehouse of the laboratory Crepes.
-- Achieved the dual-machine full attitude detection error through optimization in the end, pose error: under 0.1m orientation error: 1.3~1.7°.
+- Iteratively optimized Crepes hardware to reduce the volume and improve the accuracy of Crepes from the first version to the third version;
+-  Explored the infrared communication scheme, used the UWB clock as the system clock to improve the identification frequency of optical communication, and realized that the error of optical communication time synchronization was 2.4ms after 10000fps testing by a high-speed camera.
+- Optimized and reconstructed the Crepes Ros code.
+- Achieved the dual-machine full attitude detection error through optimization, in the end, pose error: under 0.1m orientation error: 1.3~1.7°.
 
 **Rigid and Flexible Coupled Structures Using A Thin-wall Spring Steel Sheet**
 
 ***School of Instrument Science and Engineering, Southeast University (2020-2022)***                                                         
 - Explored the modeling simulation optimization method of extended-bending structure, and realized the co-simulation of abaqus and python, and the simulation optimization of Recurdyn rigid-flexible multi-body dynamic
-- Set up a system to test hardware, software and sensor system, including hardware circuit rendering, sensor data acquisition and filtering processing of upper computer, etc.
-- Compiled relevant application papers, focusing on hand rehabilitation exoskeleton, bionic robot, space continuum robot arm.
+- Set up a system to test hardware, software, and sensor systems, including hardware circuit rendering, sensor data acquisition and filtering processing of upper computer, etc.
+- Compiled relevant application papers, focusing on hand rehabilitation exoskeleton, bionic robot, and space continuum robot arm.
 
 **Research and Verification of Learning Method with Autonomous Smart and Precise Operation**
 
 ***School of Instrument Science and Engineering, Southeast University  (2020-2021)***                                                        
-- Participated in the research of building multi-mode data acquisition system of space operation terminal, and collected the information about hand movement, electromyography and eye movement.
+- Participated in the research of building a multi-mode data acquisition system of space operation terminal, and collected information about hand movement, electromyography, and eye movement.
 
 
 ## Academic Achievements
@@ -85,7 +85,7 @@ title: personal cv
 
 **Graduation Thesis:**
 - Research on modeling and control method of a crab-like exoskeleton hand function rehabilitation robot (master)
-- Human hand posture detection based on flexible sensor (bechor)
+- Human hand posture detection based on flexible sensor (bachelor)
 
 
 ## Social Practice
@@ -108,7 +108,7 @@ title: personal cv
 - National Second Prize of the 8th “Beidou Cup” National Youth Science and Technology Innovation Competition.
 - National Third Prize of Robomaster in 2018.
 - Scholarship of Tongxi Group, Anhui Chamber of Commerce in 2017.
-- First Prize of the 6th Innovation Experience Competition of Southeast University in 2015.
+- First Prize in the 6th Innovation Experience Competition of Southeast University in 2015.
 
 ## Skills
 
@@ -117,4 +117,4 @@ title: personal cv
 - Coding skills: C, C++, and Ros;
 - Familiar with embedded system design with various kinds of sensors and Kalman filtering;
 - Skilled in PCB, and able to draw simple power driver board, control board, USB-HUB;
-- Proficient in English, with grades of TOFEL 95, GRE 316(3.0).
+- Proficient in English, with grades of TOFEL 95, and GRE 316(3.0).
