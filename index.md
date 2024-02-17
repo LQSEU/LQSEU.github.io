@@ -78,14 +78,14 @@ title: personal cv
 
 **Conference：**
 - [Q. Liu, J. Zhang*, X. Li, J. Zhou, X. Hu, W. Jin, and A. Song, “A Rigid and Flexible Structures Coupled Underactuated Hand,” in: IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 11-15 Jul., 2022.](https://lqseu.github.io/file/A%20Rigid%20and%20Flexible%20Structures%20Coupled%20Underactuated%20Hand.pdf)
-- Design and Simulation of A Rigid and flexible Continuum Manipulator (Article of China Space Conference in 2021, first author)
+- Design and Simulation of A Rigid and Flexible Continuum Manipulator (Article of China Space Conference in 2021, first author)
   
 **Patent：**
 - [A perception-driven integrated rigid-flexible finger and a flexible robotic dexterous hand (authorized)](https://lqseu.github.io/file/种感知驱动一体化刚柔耦合手指及柔顺型机器人灵巧手.pdf)
 
 **Graduation Thesis:**
 - Research on modeling and control method of a crab-like exoskeleton hand function rehabilitation robot (master)
-- Human hand posture detection based on flexible sensor (bachelor)
+- Human hand posture detection based on the flexible sensor (bachelor)
 
 
 ## Social Practice
